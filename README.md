@@ -12,7 +12,8 @@ study investigated the role of electrode paste, signal reliability, sleep stage 
 generative AI for as a tool for self-directed research.
 
 ### How to Run
-1) ```bash
+1)
+ ```bash
 ./openBCI_sleepClassifier.py
 ```
 2) Upload CSV file
