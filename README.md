@@ -1,7 +1,7 @@
 # EEG For Education: Signal Reliability and Sleep Stage Detection Using AI-Assisted Analysis 
 ## Chair's Choice Award Recipient, ECE Expo 2026
 
-##Project Background
+### Project Background
 Medical-grade electroencephalography (EEG) systems are impractical for usage in self-directed
 research, such as sleep stage classification; however, the data reliability and scope for lower-cost
 alternatives (e.g. OpenBCI Ganglion) require further validation. To observe motor artifacts and
@@ -11,5 +11,8 @@ was developed to classify sleep stages (Awake, N1, N2, N3). This exploratory
 study investigated the role of electrode paste, signal reliability, sleep stage classification, scope of
 generative AI for as a tool for self-directed research.
 
-##How to Run
-./openBCI
+### How to Run
+1) ```bash
+./openBCI_sleepClassifier.py
+```
+2) Upload CSV file
